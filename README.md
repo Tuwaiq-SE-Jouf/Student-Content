@@ -11,7 +11,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Tue 12/10    | [CSS1](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week1/CSS1.pdf) <br> [CSS2](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week1/CSS2.pdf) | [CSS1 Lab](https://github.com/Tuwaiq-SE-Jouf/week01_day02_CSS2) <br> [CSS1 Horse Lab](https://github.com/Tuwaiq-SE-Jouf/week01_day03_CSS2_Horse) | [CSS2 Grid HW](https://github.com/Tuwaiq-SE-Jouf/Week1_Day4_CSSGrid)
 | Thr 14/10    | [JS1 variables and operators](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week1/JS1_variables_and_operators.pdf) <br> [JS2 conditions](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week1/JS2_conditions.pdf) | [JS1 variables and operators Lab](https://github.com/Tuwaiq-SE-Jouf/week01_day05_JS_variables_operators) | [JS2 conditions](https://github.com/Tuwaiq-SE-Jouf/week01_day05_JS_conditions)
 | Sun 16/10    | [JS Loops](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%202/JS2_loop.pdf) | [JS loops Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day01_Loops)
-| Sun 18/10    | [JS Arrays](https://www.w3schools.com/js/js_arrays.asp) | [JS Arrays Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day02_Arrays) <br> [Functions](https://www.w3schools.com/js/js_functions.asp)  <br> [Functions](https://www.w3schools.com/js/js_functions.asp)
+| Sun 18/10    | [JS Arrays](https://www.w3schools.com/js/js_arrays.asp) <br> [Functions](https://www.w3schools.com/js/js_functions.asp)  <br> [Objects](https://www.w3schools.com/js/js_objects.asp) | [JS Arrays Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day02_Arrays) 
 
 
 
