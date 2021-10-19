@@ -12,8 +12,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Thr 14/10    | [JS1 variables and operators](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week1/JS1_variables_and_operators.pdf) <br> [JS2 conditions](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week1/JS2_conditions.pdf) | [JS1 variables and operators Lab](https://github.com/Tuwaiq-SE-Jouf/week01_day05_JS_variables_operators) | [JS2 conditions](https://github.com/Tuwaiq-SE-Jouf/week01_day05_JS_conditions)
 | Sun 16/10    | [JS Loops](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%202/JS2_loop.pdf) | [JS loops Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day01_Loops)
 | Sun 18/10    | [JS Arrays](https://www.w3schools.com/js/js_arrays.asp) <br> [Functions](https://www.w3schools.com/js/js_functions.asp)  <br> [Objects](https://www.w3schools.com/js/js_objects.asp) | [JS Arrays Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day02_Arrays) 
-| Mon 11/10    | [JS DOM](https://www.w3schools.com/js/js_htmldom.asp) <br> [JS Events](https://www.w3schools.com/js/js_events.asp)
-
+| Mon 11/10    | [JS DOM](https://www.w3schools.com/js/js_htmldom.asp) <br> [JS Events](https://www.w3schools.com/js/js_events.asp) | [JS DOM Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day03_DOM-Lab)
 
 <!--- 
 | Sun 10/10    | [JS Loops](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week2/JS2_loop.pdf) <br> [JS Arrays](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week2/JS4_Arrays.pdf) | [JS loops Lab](https://github.com/Tuwaiq-SE-Riyadh/week02_day06_JS_loops) <br> [JS Arrays Lab](https://github.com/Tuwaiq-SE-Riyadh/week02_day06_JS_arrays) | [JS Loops and Arrays HW](https://github.com/Tuwaiq-SE-Riyadh/week02_day06_JS_arrays_loops_HW) |
