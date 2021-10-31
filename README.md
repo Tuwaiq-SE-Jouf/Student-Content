@@ -17,7 +17,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 
 
 <br><br>
-
+## Unit 2
 | Day         | Topics      | Labs        | HWs |
 | ----------- | ----------- | ----------- | --- |
 | Sun 24/10   | [Introduction to Full Stack Development](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/Intoduction_to_full_stack_development.pdf) <br> [Advanced JavaScript](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/Advance_JavaScript.pdf)     |
