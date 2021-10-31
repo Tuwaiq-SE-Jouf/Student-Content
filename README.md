@@ -14,6 +14,13 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Mon 18/10    | [JS Arrays](https://www.w3schools.com/js/js_arrays.asp) <br> [Functions](https://www.w3schools.com/js/js_functions.asp)  <br> [Objects](https://www.w3schools.com/js/js_objects.asp) | [JS Arrays Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day02_Arrays) 
 | Tue 19/10    | [JS DOM](https://www.w3schools.com/js/js_htmldom.asp) <br> [JS Events](https://www.w3schools.com/js/js_events.asp) | [JS DOM Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day03_DOM-Lab)
 | Thursday 12/10    | [Web API](https://www.w3schools.com/js/js_api_intro.asp) <br> [Jquery](https://www.w3schools.com/js/js_jquery_selectors.asp) <br> [JSON](https://www.w3schools.com/js/js_json_intro.asp) | [Unit 1 Project](https://github.com/Tuwaiq-SE-Jouf/Week03_Unit1-Project)
+
+
+<br><br>
+
+| Day         | Topics      | Labs        | HWs |
+| ----------- | ----------- | ----------- | --- |
+| Sun 24/10   | [Introduction to Full Stack Development](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/Intoduction_to_full_stack_development.pdf) <br> [Advanced JavaScript](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/Advance_JavaScript.pdf)     |
 <!--- 
 | Sun 10/10    | [JS Loops](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week2/JS2_loop.pdf) <br> [JS Arrays](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week2/JS4_Arrays.pdf) | [JS loops Lab](https://github.com/Tuwaiq-SE-Riyadh/week02_day06_JS_loops) <br> [JS Arrays Lab](https://github.com/Tuwaiq-SE-Riyadh/week02_day06_JS_arrays) | [JS Loops and Arrays HW](https://github.com/Tuwaiq-SE-Riyadh/week02_day06_JS_arrays_loops_HW) |
 | Mon 11/10    | [JS DOM](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week2/JS_Scripting_EventHandiling.pdf) | [JS DOM Lab](https://github.com/Tuwaiq-SE-Riyadh/week02_day07_JS_DOM) | [JS DOM HW](https://github.com/Tuwaiq-SE-Riyadh/week02_day07_JS_DOM_HW) |
@@ -21,5 +28,18 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Wed 13/10    | [JS OOP warmup](https://github.com/Tuwaiq-SE-Riyadh/week02_day09_warmup_OOP) | [API Lab](https://github.com/Tuwaiq-SE-Riyadh/week02_day09_API) | [Online Store HW - Part 2](https://github.com/Tuwaiq-SE-Riyadh/week02_day09_OnlineStore_part2_HW) |
 
 <br> [JS Arrays](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%202/JS4_Arrays.pdf)
+
+
+
+<br><br>
+
+| Day         | Topics      | Labs        | HWs |
+| ----------- | ----------- | ----------- | --- |
+| Sun 24/10   | [Introduction to Full Stack Development](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/Intoduction_to_full_stack_development.pdf) <br> [Advanced JavaScript](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/Advance_JavaScript.pdf)     | [Data Structures Lab](https://github.com/Tuwaiq-SE-Riyadh/week04_day16_Data_Structure) <br> [Advanced JavaScript Lab](https://github.com/Tuwaiq-SE-Riyadh/week04_day16_AdvancedJS)   | [Advanced JavaScript HW](https://github.com/Tuwaiq-SE-Riyadh/week04_day16_AdvancedJS_HW) |
+| Mon 25/10   | [React 1](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/React1.pdf) <br> [React2](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/React2.pdf)     |    [React Lab 1](https://github.com/Tuwaiq-SE-Riyadh/week04_day17_React) <br> [React Lab 2 (Components)](https://github.com/Tuwaiq-SE-Riyadh/week04_day17_React_Components)   | [React HW](https://github.com/Tuwaiq-SE-Riyadh/week04_day17_React_HW) |
+| Tue 26/10   | [React 3](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/React3.pdf) <br> [React State](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/State_Manipulation.pdf) |    [React3 Lab Class Component](https://github.com/Tuwaiq-SE-Riyadh/week04_day18_class_component) <br> [React3 State](https://github.com/Tuwaiq-SE-Riyadh/week04_day18_State)   | [React3 HW](https://github.com/Tuwaiq-SE-Riyadh/week04_day18_class_component_HW) |
+| Wed 27/10   | --- | [React Exercise 1](https://github.com/Tuwaiq-SE-Riyadh/react-project) | --- |
+| Thr 28/10   | [useEffect](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/useEffect_Hook.pdf) <br> [Axios](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/Axios.pdf) | [React Exercise 2](https://github.com/Tuwaiq-SE-Riyadh/react-exercise-2) | --- |
+| Sun 31/10   | [Router](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week5/Router.pdf) <br> [useContext](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week5/useContext.pdf) | [Router Lab](https://github.com/maryam-balabeed/week04_day21_Router) <br> [useContext Lab](https://github.com/Tuwaiq-SE-Riyadh/week4-day21-useContext-Lab)| --- |
 
  --->
