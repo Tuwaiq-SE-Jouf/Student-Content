@@ -21,7 +21,11 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Day         | Topics      | Labs        | HWs |
 | ----------- | ----------- | ----------- | --- |
 | Sun 24/10   | [Introduction to Full Stack Development](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/Intoduction_to_full_stack_development.pdf) <br> [Advanced JavaScript](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/Advance_JavaScript.pdf)   | [Data Structures Lab](https://github.com/Tuwaiq-SE-Jouf/week04_day01_Data_Structure)
-| Mon 25/10   | [React 1](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/React1.pdf)
+| Mon 25/10   | [React 1](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/React1.pdf) | [React 1 Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day02_React1_Functional_Lab)
+| Tue 26/10   | [React 2: Props] | [React 2 Props Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day03_React2_Props_Lab)
+| Wed 27/10   | [React 3: Class Components] | [React 3: Class Components Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day04_React3_Lab_Class-Component)
+| Thr 28/10   | [React 4: States] | [React 4: States Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_Lab) | [React 4: States HW](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_HW)
+
 <!--- 
 
 
