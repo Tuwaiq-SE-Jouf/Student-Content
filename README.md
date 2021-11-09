@@ -20,14 +20,14 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 ## Unit 2
 | Day         | Topics      | Labs        | HWs |
 | ----------- | ----------- | ----------- | --- |
-| Sun 24/10   | [Introduction to Full Stack Development](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/Intoduction_to_full_stack_development.pdf) <br> [Advanced JavaScript](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/Advance_JavaScript.pdf)   | [Data Structures Lab](https://github.com/Tuwaiq-SE-Jouf/week04_day01_Data_Structure)
-| Mon 25/10   | [React 1](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/React1.pdf) | [React 1 Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day02_React1_Functional_Lab)
-| Tue 26/10   | [React 2: Props](https://reactjs.org/docs/components-and-props.html) | [React 2 Props Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day03_React2_Props_Lab)
-| Wed 27/10   | [React 3: Class Components](https://www.w3schools.com/react/react_class.asp) | [React 3: Class Components Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day04_React3_Lab_Class-Component)
-| Thr 28/10   | [React 4: States](https://www.w3schools.com/react/react_events.asp) | [React 4: States Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_Lab) | [React 4: States HW](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_HW)
-| Sun 31/10   | [Events Continued](https://www.w3schools.com/react/react_events.asp) | [Events Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_HW)
-| Mond 31/10   | [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html) <br/>  [React Forms](https://reactjs.org/docs/forms.html)  | [React Conditional Rendering lab](https://github.com/Tuwaiq-SE-Jouf/Week05_Day02_React_Forms_Conditional-Rendering_Lab) <br> [React Forms Lab](https://github.com/Tuwaiq-SE-Jouf/Week05_Day02_React_Forms_Conditional-Rendering_Lab)
-| Tues 31/10   | [Smart & Dumb Components](https://medium.com/@thejasonfile/dumb-components-and-smart-components-e7b33a698d43) <br/> [Hooks](https://reactjs.org/docs/hooks-intro.html) | [Hooks HW](https://github.com/Tuwaiq-SE-Jouf/Week05_Day03_React_Hooks/blob/main/README.md)
+| Sun 31/10   | [Introduction to Full Stack Development](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/Intoduction_to_full_stack_development.pdf) <br> [Advanced JavaScript](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/Advance_JavaScript.pdf)   | [Data Structures Lab](https://github.com/Tuwaiq-SE-Jouf/week04_day01_Data_Structure)
+| Mon 1/11   | [React 1](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%203/React1.pdf) | [React 1 Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day02_React1_Functional_Lab)
+| Tue 2/11   | [React 2: Props](https://reactjs.org/docs/components-and-props.html) | [React 2 Props Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day03_React2_Props_Lab)
+| Wed 3/11   | [React 3: Class Components](https://www.w3schools.com/react/react_class.asp) | [React 3: Class Components Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day04_React3_Lab_Class-Component)
+| Thr 4/11   | [React 4: States](https://www.w3schools.com/react/react_events.asp) | [React 4: States Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_Lab) | [React 4: States HW](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_HW)
+| Sun 7/11   | [Events Continued](https://www.w3schools.com/react/react_events.asp) | [Events Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_HW)
+| Mond 8/11   | [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html) <br/>  [React Forms](https://reactjs.org/docs/forms.html)  | [React Conditional Rendering lab](https://github.com/Tuwaiq-SE-Jouf/Week05_Day02_React_Forms_Conditional-Rendering_Lab) <br> [React Forms Lab](https://github.com/Tuwaiq-SE-Jouf/Week05_Day02_React_Forms_Conditional-Rendering_Lab)
+| Tues 9/10   | [Smart & Dumb Components](https://medium.com/@thejasonfile/dumb-components-and-smart-components-e7b33a698d43) <br/> [Hooks](https://reactjs.org/docs/hooks-intro.html) | [Hooks HW](https://github.com/Tuwaiq-SE-Jouf/Week05_Day03_React_Hooks/blob/main/README.md)
 
 
 <!--- 
