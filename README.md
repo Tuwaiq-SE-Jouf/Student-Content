@@ -25,7 +25,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Tue 26/10   | [React 2: Props](https://reactjs.org/docs/components-and-props.html) | [React 2 Props Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day03_React2_Props_Lab)
 | Wed 27/10   | [React 3: Class Components](https://www.w3schools.com/react/react_class.asp) | [React 3: Class Components Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day04_React3_Lab_Class-Component)
 | Thr 28/10   | [React 4: States]() | [React 4: States Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_Lab) | [React 4: States HW](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_HW)
-| Sun 31/10   | [Events Continued]() <br> 
+| Sun 31/10   | [Events Continued]() | [Events Lab]((https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_HW))
 | Mond 31/10   | [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html) <br/>  [React Forms](https://reactjs.org/docs/forms.html)  | [React Conditional Rendering lab](https://github.com/Tuwaiq-SE-Jouf/Week05_Day02_React_Forms_Conditional-Rendering_Lab) <br> [React Forms Lab](https://github.com/Tuwaiq-SE-Jouf/Week05_Day02_React_Forms_Conditional-Rendering_Lab)
 | Tues 31/10   | [Smart & Dumb Components](https://medium.com/@thejasonfile/dumb-components-and-smart-components-e7b33a698d43) <br/> [Hooks](https://reactjs.org/docs/hooks-intro.html) | [Hooks HW](https://github.com/Tuwaiq-SE-Jouf/Week05_Day03_React_Hooks/blob/main/README.md)
 
