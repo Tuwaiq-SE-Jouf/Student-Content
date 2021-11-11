@@ -28,7 +28,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Sun 7/11   | [Events Continued](https://www.w3schools.com/react/react_events.asp) | [Events Lab](https://github.com/Tuwaiq-SE-Jouf/Week04_Day05_React4_Events_HW)
 | Mond 8/11   | [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html) <br/>  [React Forms](https://reactjs.org/docs/forms.html)  | [React Conditional Rendering lab](https://github.com/Tuwaiq-SE-Jouf/Week05_Day02_React_Forms_Conditional-Rendering_Lab) <br> [React Forms Lab](https://github.com/Tuwaiq-SE-Jouf/Week05_Day02_React_Forms_Conditional-Rendering_Lab)
 | Tues 9/11   | [Smart & Dumb Components](https://medium.com/@thejasonfile/dumb-components-and-smart-components-e7b33a698d43) <br/> [Hooks](https://reactjs.org/docs/hooks-intro.html) | [Hooks HW](https://github.com/Tuwaiq-SE-Jouf/Week05_Day03_React_Hooks/blob/main/README.md)
-| Wed 10/11   | [Routers](https://reactrouter.com/) |[routers HW](https://github.com/Tuwaiq-SE-Jouf/Week05_Day04_Routers)
+| Wed 10/11   | [Routers](https://reactrouter.com/) |[Routers HW](https://github.com/Tuwaiq-SE-Jouf/Week05_Day04_Routers)
 
 
 <!--- 
