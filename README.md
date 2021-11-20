@@ -29,7 +29,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Mond 8/11   | [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html) <br/>  [React Forms](https://reactjs.org/docs/forms.html)  | [React Conditional Rendering lab](https://github.com/Tuwaiq-SE-Jouf/Week05_Day02_React_Forms_Conditional-Rendering_Lab) <br> [React Forms Lab](https://github.com/Tuwaiq-SE-Jouf/Week05_Day02_React_Forms_Conditional-Rendering_Lab)
 | Tues 9/11   | [Smart & Dumb Components](https://medium.com/@thejasonfile/dumb-components-and-smart-components-e7b33a698d43) <br/> [Hooks](https://reactjs.org/docs/hooks-intro.html) | [Hooks HW](https://github.com/Tuwaiq-SE-Jouf/Week05_Day03_React_Hooks/blob/main/README.md)
 | Wed 10/11   | [Routers](https://reactrouter.com/) |[Routers HW](https://github.com/Tuwaiq-SE-Jouf/Week05_Day04_Routers)
-| Thr 11/11   | [Fetch API](https://javascript.info/fetch) <br> [Promise](https://javascript.info/promise-basics) <br> 
+| Thr 11/11   | [Fetch API](https://javascript.info/fetch) <br> [Promise](https://javascript.info/promise-basics) <br> [Deploying a React APP](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%205/WD%20L2T13%20-%20Deploy%20React%20App.pdf) <br> [Testing a React App](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%205/WD%20L2T15%20-%20React%20VI%20-%20Testing%20a%20React%20App.pdf)
 
 
 
