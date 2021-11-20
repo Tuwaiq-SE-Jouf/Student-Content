@@ -33,6 +33,19 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 
 <br><br>
 ## Unit 3
+| Day               | Topics            | Labs            | HWs     |
+| ----------------- | ----------------- | --------------- | ------- |
+| Sun 21/11   |
+| Mon 22/11   |
+| Tue 23/11   |
+| Wed 24/11   |
+| Thu 25/11   |
+| Sun 28/11   |
+| Sun 29/11   |
+| Sun 30/11   |
+| Sun 01/12   |
+| Sun 02/12   |
+
 
 
 <!--- 
@@ -40,13 +53,13 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 
 <br><br>
 
-| Day         | Topics      | Labs        | HWs |
-| ----------- | ----------- | ----------- | --- |
-| Sun 24/10   | [Introduction to Full Stack Development](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/Intoduction_to_full_stack_development.pdf) <br> [Advanced JavaScript](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/Advance_JavaScript.pdf)     | [Data Structures Lab](https://github.com/Tuwaiq-SE-Jouf/week04_day01_Data_Structure) <br> [Advanced JavaScript Lab](https://github.com/Tuwaiq-SE-Riyadh/week04_day16_AdvancedJS)   | [Advanced JavaScript HW](https://github.com/Tuwaiq-SE-Riyadh/week04_day16_AdvancedJS_HW) |
-| Mon 25/10   | [React 1](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/React1.pdf) <br> [React2](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/React2.pdf)     |    [React Lab 1](https://github.com/Tuwaiq-SE-Riyadh/week04_day17_React) <br> [React Lab 2 (Components)](https://github.com/Tuwaiq-SE-Riyadh/week04_day17_React_Components)   | [React HW](https://github.com/Tuwaiq-SE-Riyadh/week04_day17_React_HW) |
-| Tue 26/10   | [React 3](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/React3.pdf) <br> [React State](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/State_Manipulation.pdf) |    [React3 Lab Class Component](https://github.com/Tuwaiq-SE-Riyadh/week04_day18_class_component) <br> [React3 State](https://github.com/Tuwaiq-SE-Riyadh/week04_day18_State)   | [React3 HW](https://github.com/Tuwaiq-SE-Riyadh/week04_day18_class_component_HW) |
-| Wed 27/10   | --- | [React Exercise 1](https://github.com/Tuwaiq-SE-Riyadh/react-project) | --- |
-| Thr 28/10   | [useEffect](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/useEffect_Hook.pdf) <br> [Axios](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/Axios.pdf) | [React Exercise 2](https://github.com/Tuwaiq-SE-Riyadh/react-exercise-2) | --- |
-| Sun 31/10   | [Router](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week5/Router.pdf) <br> [useContext](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week5/useContext.pdf) | [Router Lab](https://github.com/maryam-balabeed/week04_day21_Router) <br> [useContext Lab](https://github.com/Tuwaiq-SE-Riyadh/week4-day21-useContext-Lab)| --- |
+
+| Day               | Topics            | Labs            | HWs     |
+| ----------------- | ----------------- | --------------- | ------- |
+| Sun 14/11   | [Installation Guide](https://github.com/Tuwaiq-SE-Riyadh/Installation-Guide/blob/master/Readme.md) <br> [Java Basics](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L2T02%20-%20Introduction%20to%20Java%20Programming%20I%20-%20Java%20Basics.pdf) <br> [Arrays](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L2T03%20-%20Introduction%20to%20Java%20Programming%20II%20-%20Data%20Structures.pdf) <br> [Java cheat sheet](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/Java-Cheat-Sheet.pdf)  |      [Java Basics Lab](https://github.com/Tuwaiq-SE-Riyadh/W07D01-Java-basics-Lab) <br> [Arrays Lab  ](https://github.com/Tuwaiq-SE-Riyadh/W07D01-Arrays-lab)    |      [HW](https://github.com/Tuwaiq-SE-Riyadh/W07D01-HW)    |
+| Mon 15/11   | [Java Methods](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L2T04%20-%20Introduction%20to%20Java%20Programming%20III%20-%20Methods.pdf) <br> [Java OOP](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L2T06%20-%20Object-Oriented%20Programming.pdf)  |   [Java Methods Lab](https://github.com/Tuwaiq-SE-Riyadh/W07D02-Method-lab) <br> [Java OOP Lab  ](https://github.com/Tuwaiq-SE-Riyadh/W07D02-OOP-lab)  <br> [Geuss Game](https://github.com/Tuwaiq-SE-Riyadh/W07D02-Guess-Number-Game)  |   [HW](https://github.com/Tuwaiq-SE-Riyadh/W07D02-HW)    |
+| Tue 16/11   | [Java Advanced OOP](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L2T13%20-%20Object-Oriented%20Programming%20-%20Inheritance.pdf) <br> [Java Collections](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L2T23%20-%20Java%20Collections%20Framework.pdf)  |   [Java Advanced OOP Lab](https://github.com/Tuwaiq-SE-Riyadh/W07D03-Advanced-OOP-Lab)  <br> [Java Collections lab](https://github.com/Tuwaiq-SE-Riyadh/W07D03-Collections-Lab)  |   [HW](https://github.com/Tuwaiq-SE-Riyadh/W07D03-Advanced-OOP-Collections-HW)  |
+| Wed 17/11   | [Database Intro](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L3T04%20-%20Introduction%20to%20Databases.pdf) <br> [Intro to SQL](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L3T06%20-%20Introduction%20to%20SQL.pdf)  |  [Installation](https://github.com/Tuwaiq-SE-Riyadh/W07D04-Installation-Guide-SQL) <br> [Intro to SQL Lab](https://github.com/Tuwaiq-SE-Riyadh/W07D04-SQL-Lab/blob/master/Readme.md) |   ---  |
+| Thr 18/11   | [Database SQL 2](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L3T06%20-%20Introduction%20to%20SQL.pdf)  | [SQL 2 Lab](https://github.com/Tuwaiq-SE-Riyadh/W07D05-SQL-Relations-labs) |  ---  |
 
  --->
