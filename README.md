@@ -13,7 +13,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Sun 17/10    | [JS Loops](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%202/JS2_loop.pdf) | [JS loops Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day01_Loops)
 | Mon 18/10    | [JS Arrays](https://www.w3schools.com/js/js_arrays.asp) <br> [Functions](https://www.w3schools.com/js/js_functions.asp)  <br> [Objects](https://www.w3schools.com/js/js_objects.asp) | [JS Arrays Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day02_Arrays) 
 | Tue 19/10    | [JS DOM](https://www.w3schools.com/js/js_htmldom.asp) <br> [JS Events](https://www.w3schools.com/js/js_events.asp) | [JS DOM Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day03_DOM-Lab)
-| Thursday 12/10    | [Web API](https://www.w3schools.com/js/js_api_intro.asp) <br> [Jquery](https://www.w3schools.com/js/js_jquery_selectors.asp) <br> [JSON](https://www.w3schools.com/js/js_json_intro.asp) | [Unit 1 Project](https://github.com/Tuwaiq-SE-Jouf/Week03_Unit1-Project) | [Java HW 1](https://github.com/Tuwaiq-SE-Jouf/Week07_Day01_Java1_Basics_Lab/blob/main/README.md)
+| Thursday 12/10    | [Web API](https://www.w3schools.com/js/js_api_intro.asp) <br> [Jquery](https://www.w3schools.com/js/js_jquery_selectors.asp) <br> [JSON](https://www.w3schools.com/js/js_json_intro.asp) | [Unit 1 Project](https://github.com/Tuwaiq-SE-Jouf/Week03_Unit1-Project) 
 
 
 <br><br>
@@ -35,7 +35,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 ## Unit 3
 | Day               | Topics            | Labs            | HWs     |
 | ----------------- | ----------------- | --------------- | ------- |
-| Sun 21/11   | [Java Installation Guide](https://github.com/Tuwaiq-SE-Jouf/Java-Installation-Guide) <br> [Java 1: Basics](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/Introduction%20to%20Java%20Programming%20I%20-%20Java%20Basics.pdf) <br> [Java Cheat Sheet](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SQL%20Cheat%20Sheet%20-%20SQL-Cheat-Sheet.pdf)
+| Sun 21/11   | [Java Installation Guide](https://github.com/Tuwaiq-SE-Jouf/Java-Installation-Guide) <br> [Java 1: Basics](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/Introduction%20to%20Java%20Programming%20I%20-%20Java%20Basics.pdf) <br> [Java Cheat Sheet](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SQL%20Cheat%20Sheet%20-%20SQL-Cheat-Sheet.pdf) | [Java HW 1](https://github.com/Tuwaiq-SE-Jouf/Week07_Day01_Java1_Basics_Lab/blob/main/README.md)
 | Mon 22/11   |
 | Tue 23/11   |
 | Wed 24/11   |
