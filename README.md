@@ -35,7 +35,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 ## Unit 3
 | Day               | Topics            | Labs            | HWs     |
 | ----------------- | ----------------- | --------------- | ------- |
-| Sun 21/11   |
+| Sun 21/11   | [Java Installation Guide](https://github.com/Tuwaiq-SE-Jouf/Java-Installation-Guide) <br> [Java 1: Basics](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/Introduction%20to%20Java%20Programming%20I%20-%20Java%20Basics.pdf)
 | Mon 22/11   |
 | Tue 23/11   |
 | Wed 24/11   |
