@@ -13,7 +13,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Sun 17/10    | [JS Loops](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%202/JS2_loop.pdf) | [JS loops Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day01_Loops)
 | Mon 18/10    | [JS Arrays](https://www.w3schools.com/js/js_arrays.asp) <br> [Functions](https://www.w3schools.com/js/js_functions.asp)  <br> [Objects](https://www.w3schools.com/js/js_objects.asp) | [JS Arrays Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day02_Arrays) 
 | Tue 19/10    | [JS DOM](https://www.w3schools.com/js/js_htmldom.asp) <br> [JS Events](https://www.w3schools.com/js/js_events.asp) | [JS DOM Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day03_DOM-Lab)
-| Thursday 12/10    | [Web API](https://www.w3schools.com/js/js_api_intro.asp) <br> [Jquery](https://www.w3schools.com/js/js_jquery_selectors.asp) <br> [JSON](https://www.w3schools.com/js/js_json_intro.asp) | [Unit 1 Project](https://github.com/Tuwaiq-SE-Jouf/Week03_Unit1-Project)
+| Thursday 12/10    | [Web API](https://www.w3schools.com/js/js_api_intro.asp) <br> [Jquery](https://www.w3schools.com/js/js_jquery_selectors.asp) <br> [JSON](https://www.w3schools.com/js/js_json_intro.asp) | [Unit 1 Project](https://github.com/Tuwaiq-SE-Jouf/Week03_Unit1-Project) | [Java HW 1](https://github.com/Tuwaiq-SE-Jouf/Week07_Day01_Java1_Basics_Lab/blob/main/README.md)
 
 
 <br><br>
