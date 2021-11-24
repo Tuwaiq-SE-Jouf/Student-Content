@@ -38,7 +38,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Sun 21/11   | [Java Installation Guide](https://github.com/Tuwaiq-SE-Jouf/Java-Installation-Guide) <br> [Java 1: Basics](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/Introduction%20to%20Java%20Programming%20I%20-%20Java%20Basics.pdf) <br> [Java Cheat Sheet](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SQL%20Cheat%20Sheet%20-%20SQL-Cheat-Sheet.pdf) | [Java HW 1](https://github.com/Tuwaiq-SE-Jouf/Week07_Day01_Java1_Basics_Lab/blob/main/README.md)
 | Mon 22/11   | [Java Arrays](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L2T03%20-%20Introduction%20to%20Java%20Programming%20II%20-%20Data%20Structures.pdf)  <br> [Java Methods](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L2T04%20-%20Introduction%20to%20Java%20Programming%20III%20-%20Methods.pdf) <br>  <!--  --> | [Java Arrays Lab](https://github.com/Tuwaiq-SE-Jouf/Week07_Day02_Java-Arrays-Lab) | [Java Methods lab](https://github.com/Tuwaiq-SE-Jouf/Week07_Day02_Java-Methods-Lab)
 | Tue 23/11   | [Java Object Oriented Programs](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L2T06%20-%20Object-Oriented%20Programming.pdf) | [Java OOP Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day04_OOP-Lab)
-| Wed 24/11   |
+| Wed 24/11   | [OOP - Inheritance](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L2T13%20-%20Object-Oriented%20Programming%20-%20Inheritance.pdf)
 | Thu 25/11   |
 | Sun 28/11   |
 | Sun 29/11   |
