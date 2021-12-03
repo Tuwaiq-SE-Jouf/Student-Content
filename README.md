@@ -40,8 +40,8 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Tue 23/11   | [Java Object Oriented Programs](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L2T06%20-%20Object-Oriented%20Programming.pdf) | [Java OOP Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day04_OOP-Lab)
 | Wed 24/11   | [OOP - Inheritance](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L2T13%20-%20Object-Oriented%20Programming%20-%20Inheritance.pdf) <br> [External Data Sources](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L2T14%20-%20%20External%20Data%20Sources%20-%20Files.pdf)| [OOP Inheritance Lab](https://github.com/Tuwaiq-SE-Jouf/Week07_Day04_Java_OOP_Inheritance-Lab) | [External Data Sources HW](https://github.com/Tuwaiq-SE-Jouf/Week07_Day04_File-Input)
 | Thu 25/11   | [Introduction to Databases](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L3T04%20-%20Introduction%20to%20Databases.pdf) <br> [Design and Build Relational Databases](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L3T05%20-%20Design%20and%20Build%20Relational%20Database.pdf) | |[Java Overview HW <br> Database HW](https://github.com/Tuwaiq-SE-Jouf/Week07_Day05-Java-Overview-Lab/blob/main/README.md)
-| Sun 28/11   | | | [Review: Javascript Conditionals and Loops](https://github.com/Tuwaiq-SE-Jouf/Week08_Day01_Review_JS_Conditionals_Loops/blob/main/README.md)
-| Thu 02/12   | | [React Hooks Lab](https://github.com/Tuwaiq-SE-Jouf/Week08_Day05_React-Hooks-Java-Review) | [Java Review HW](https://github.com/Tuwaiq-SE-Jouf/Week08_Day05_React-Hooks-Java-Review)
+| Sun 28/11   | Javascript Review | | [Review: Javascript Conditionals and Loops](https://github.com/Tuwaiq-SE-Jouf/Week08_Day01_Review_JS_Conditionals_Loops/blob/main/README.md)
+| Thu 02/12   | React Review | [React Hooks Lab](https://github.com/Tuwaiq-SE-Jouf/Week08_Day05_React-Hooks-Java-Review) | [Java Review HW](https://github.com/Tuwaiq-SE-Jouf/Week08_Day05_React-Hooks-Java-Review)
 | Sun 05/12   |
 | Mon 06/12   |
 | Tue 07/12   |
