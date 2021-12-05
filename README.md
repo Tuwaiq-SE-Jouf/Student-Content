@@ -42,7 +42,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Thu 25/11   | [Introduction to Databases](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L3T04%20-%20Introduction%20to%20Databases.pdf) <br> [Design and Build Relational Databases](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L3T05%20-%20Design%20and%20Build%20Relational%20Database.pdf) | |[Java Overview HW <br> Database HW](https://github.com/Tuwaiq-SE-Jouf/Week07_Day05-Java-Overview-Lab/blob/main/README.md)
 | Sun 28/11   | Javascript Review | | [Review: Javascript Conditionals and Loops](https://github.com/Tuwaiq-SE-Jouf/Week08_Day01_Review_JS_Conditionals_Loops/blob/main/README.md)
 | Thu 02/12   | React Review | [React Hooks Lab](https://github.com/Tuwaiq-SE-Jouf/Week08_Day05_React-Hooks-Java-Review) | [Java Review HW](https://github.com/Tuwaiq-SE-Jouf/Week08_Day05_React-Hooks-Java-Review)
-| Sun 05/12   | [Intro to SQL](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L3T06%20-%20Introduction%20to%20SQL.pdf) | [Installation Guide](https://github.com/Tuwaiq-SE-Jouf/W07D04-Installation-Guide-SQL) [SQL Lab](https://github.com/Tuwaiq-SE-Jouf/Week07_Day01_SQL-Lab)
+| Sun 05/12   | [Intro to SQL](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L3T06%20-%20Introduction%20to%20SQL.pdf) | <br>[SQL Lab](https://github.com/Tuwaiq-SE-Jouf/Week07_Day01_SQL-Lab) | [Installation Guide](https://github.com/Tuwaiq-SE-Jouf/W07D04-Installation-Guide-SQL)
 | Mon 06/12   |
 | Tue 07/12   |
 
