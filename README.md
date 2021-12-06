@@ -43,7 +43,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Sun 28/11   | Javascript Review | | [Review: Javascript Conditionals and Loops](https://github.com/Tuwaiq-SE-Jouf/Week08_Day01_Review_JS_Conditionals_Loops/blob/main/README.md)
 | Thu 02/12   | React Review | [React Hooks Lab](https://github.com/Tuwaiq-SE-Jouf/Week08_Day05_React-Hooks-Java-Review) | [Java Review HW](https://github.com/Tuwaiq-SE-Jouf/Week08_Day05_React-Hooks-Java-Review)
 | Sun 05/12   | [Intro to SQL](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L3T06%20-%20Introduction%20to%20SQL.pdf) | <br>[SQL Lab](https://github.com/Tuwaiq-SE-Jouf/Week07_Day01_SQL-Lab) | [Installation Guide](https://github.com/Tuwaiq-SE-Jouf/W07D04-Installation-Guide-SQL)
-| Mon 06/12   |
+| Mon 06/12   | [SQL 2](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L3T06%20-%20Introduction%20to%20SQL.pdf) | [SQL 2 Lab](https://github.com/Tuwaiq-SE-Jouf/Week09_Day02_SQL2-Lab)
 | Tue 07/12   |
 
 
