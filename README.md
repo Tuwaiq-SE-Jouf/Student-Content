@@ -46,7 +46,9 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Mon 06/12   | [SQL 2](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L3T06%20-%20Introduction%20to%20SQL.pdf) <br> [Java Database Programming - JDBC](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/Week%207/SE%20L3T07%20-%20Java%20Database%20Programming_%20The%20JDBC.pdf) | [SQL 2 Lab](https://github.com/Tuwaiq-SE-Jouf/Week09_Day02_SQL2-Lab)
 | Tue 07/12   | [MVC Intro](https://github.com/Tuwaiq-SE-Jouf/Week09_Day03_MVC-Intro) </br> [What is Spring Boot](https://github.com/Tuwaiq-SE-Jouf/Week09_Day03-Spring-Intro) <br> [Spring Boot overview](https://github.com/Tuwaiq-SE-Jouf/Week09_Day03_Spring-Boot-Overview) <br> [Spring Boot Development Environment](https://github.com/Tuwaiq-SE-Jouf/Week09_Day03-Spring-Development-Enviroment/blob/main/README.md)
 | Wed 08/12 | [Spring Data](https://github.com/Tuwaiq-SE-Jouf/Student-Content/blob/main/slides/week%208/Spring%20Data) | [Spring Lab](https://github.com/Tuwaiq-SE-Jouf/Week09_Day04-Spring-Lab)
-| Thu 09/12 | Relational Databases in Spring | | [Unit 3 Project](https://github.com/Tuwaiq-SE-Jouf/Week09_Unit-3-Project)
+| Thu 09/12 | Relational Databases in Spring | | [Unit 3 Project](https://github.com/Tuwaiq-SE-Jouf/Week09_Unit-3-Project) 
+| Sun 12/12 | Project Presentations | [Exercise](https://github.com/Tuwaiq-SE-Jouf/Week10_Day01_Spring-Many-to-Many-Relation)
+| Mon 13/12 | [Spring Security](https://github.com/Tuwaiq-SE-Jouf/Week10_Day02_Spring_Security) <br> [JSON Web Tokens](http://jwt.io/)
 
 
 
