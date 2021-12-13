@@ -1,4 +1,6 @@
 
+# Spring Data
+
 ### LEARNING OBJECTIVES
 
 *After this lesson, you will be able to:*
@@ -37,6 +39,9 @@ Spring Boot provides its own unique ORM implementation that borrows from similar
 
 ----
 
+## Lab Time
+
+Now we can move into the [Step 3B]()
 
 #### Additional Reading
 
